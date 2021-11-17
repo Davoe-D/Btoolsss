@@ -944,6 +944,7 @@ container-GD-1{
   vertical-align: middle; 
   border:0; 
   margin-top: 12px; 
+  cursor: pointer;
 } 
 .form-control {
   display: block; 
