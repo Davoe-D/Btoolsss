@@ -536,6 +536,12 @@ nav .content .links{
     .content .links li a.desktop-link{
       display: none;
     }
+    .GoogleDrive .ggg {
+        padding-left: 20%;
+    }
+    .gg {
+        padding-left: 20%;
+    }
 }
 
   @media screen and (max-width: 400px){
