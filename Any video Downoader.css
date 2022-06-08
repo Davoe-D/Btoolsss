@@ -566,7 +566,7 @@ h1 {
   .gg{
       font-size: em;
       padding: 0.5rem;
-      font-weight: bold;
+      font-weight: light;
       letter-spacing: 0.1rem;
       text-align: center;
       overflow: hidden;
@@ -729,7 +729,9 @@ form.example input[type=text] {
     color: #F26F23;
   }
 
-
+  .HolderF {
+      padding-left: 25%;
+  }
 
 
 
@@ -775,11 +777,11 @@ form.example input[type=text] {
 
     form.example input[type=text] {
         outline:none;
-        padding: 10px;
+        padding: 2px;
         font-size: 17px;
         border: 6px solid #197fdd;
         float: left;
-        width: 335px;
+        width: 328px;
         background: #f1f1f1;
       }
 
@@ -791,10 +793,9 @@ form.example input[type=text] {
         margin: 3%;
         transition: 0.5s;
       }
-
-      .wrapper {
-          display:none;
-      }
+      .HolderF {
+          display: none;
+    }
 }
 
 @media screen and (max-width: 900px){
